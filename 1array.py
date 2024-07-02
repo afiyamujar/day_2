@@ -3,4 +3,4 @@ print(f"Original Array:{arr}")
 
 
 arr.insert(4,5)
-print(f"Updated Array;{arr}")
+print(f"Updated Array:{arr}")
