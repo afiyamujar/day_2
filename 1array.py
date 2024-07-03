@@ -1,6 +1,4 @@
-arr = [1,2,3,4,6]
-print(f"Original Array:{arr}")
-
-
-arr.insert(4,5)
-print(f"Updated Array:{arr}")
+arr=[1,2,3,4,6]
+new_num=int(input("Enter the number :"))
+arr.append(new_num)
+print(arr)
